@@ -1,0 +1,3 @@
+rootProject.name = 'LuckyCracker'
+
+include ':app'
